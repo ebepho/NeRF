@@ -1,4 +1,4 @@
-# NeRF-Robust: Enhanced Neural Radiance Fields
+# NeRF: Neural Radiance Fields
 
 > A modern implementation of Neural Radiance Fields with practical enhancements
 
