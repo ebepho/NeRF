@@ -28,33 +28,6 @@ nerf/
 ├── scripts/           # Utility scripts
 └── results/           # Experimental results
 ```
-
----
-
-## 📊 Results & Visuals  
-
-### 🔹 Architecture  
-Illustration of the NeRF pipeline from multi-view images to 3D reconstructions.  
-<img width="716" height="281" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/095ce8d2-ac4d-4bd8-8b3f-7c017948913e" />  
-
-### 🔹 Data Preprocessing  
-<table>
-  <tr>
-    <td align="center">
-      <img width="367" height="107" alt="Video Frame Extraction" src="https://github.com/user-attachments/assets/c966a65e-a6d7-44d7-907c-3b86f5e71e69" /><br>
-      <sub>Frames extracted from video using <b>colmap2nerf</b></sub>
-    </td>
-    <td align="center">
-      <img width="367" height="107" alt="Preprocessed Frames" src="https://github.com/user-attachments/assets/b1fb572b-adff-4dd5-aa79-5be07cc01036" /><br>
-      <sub>After preprocessing (denoising & background removal)</sub>
-    </td>
-  </tr>
-</table>
-
-### 🔹 User-Collected Data  
-Example reconstructions on user-captured images.  
-<img width="716" height="313" alt="User Data Results" src="https://github.com/user-attachments/assets/00b00627-6d6f-40eb-b939-2e3cb28bb56f" />  
-
 ---
 
 ## 📌 Disclaimer  
